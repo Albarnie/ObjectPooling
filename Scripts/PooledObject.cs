@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ObjectPooling
+namespace Albarnie.ObjectPooling
 {
     public class PooledObject : MonoBehaviour
     {
